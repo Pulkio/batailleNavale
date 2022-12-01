@@ -1,0 +1,7 @@
+
+
+
+
+#ceci est un test
+torpilleur 2 2
+porte-avion 1 4

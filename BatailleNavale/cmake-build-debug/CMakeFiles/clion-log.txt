@@ -1,0 +1,2 @@
+CMakeLists.txt not found in C:\Users\guill\Documents\scolaire\iutVannes\2emeAnneeIUT\2emeAnnee\c++\BatailleNavale Select CMakeLists.txt
+Toolchains are not configured Configure Disable profile
